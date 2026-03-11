@@ -1,0 +1,2 @@
+# focalflow_goctl_temp
+focal的goctl的模板目录
